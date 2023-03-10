@@ -1,17 +1,17 @@
 {
   "name": "helloworld",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Hello World",
+  "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ThaynnaV/helloWorld.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Thaynna",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ThaynnaV/helloWorld/issues"
